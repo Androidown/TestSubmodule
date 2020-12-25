@@ -1,0 +1,3 @@
+[submodule "libSubmodule"]
+	path = libSubmodule
+	url = git@github.com:Androidown/libSubmodule.git
